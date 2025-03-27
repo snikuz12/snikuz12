@@ -62,13 +62,15 @@
 <br>
 
 
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=snikuz12&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/snikuz12?pet-id=670157944397296275"
+    src="https://render.gitanimals.org/lines/snikuz12?pet-id=670157959631002596"
     width="600"
     height="120"
   />
 </a>
+  
   
   
 [![snikuz12's GitHub stats](https://github-readme-stats.vercel.app/api?username=snikuz12&theme=radical)](https://github.com/snikuz12/github-readme-stats)
