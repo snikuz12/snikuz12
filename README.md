@@ -6,7 +6,7 @@
 | 프로젝트명| 설명 | 기간 | Repository |
 |------------------------|-------------------------------------------------------|----------------------|--------------------------------------------------------------------------------------|
 | 빌려가유 (billyeogayu) | 농기계 대여 플랫폼 서비스                    | 2024.09.03 - 2024.09.16 | [빌려가유 Server](https://github.com/snikuz12/billyeogayu.git)                  |
-| 하이뽀 (haippo-web)      | 웹 서비스 플랫폼                           | 2024.07.14 - 2024.07.25 | [해뽀 Server](https://github.com/snikuz12/haippo-web.git)                       |
+| Highform   | 학원 업무 통합 플랫폼 (과제/출석/자료 관리)     | 2024.07.14 - 2024.07.25 | [Highform Server](https://github.com/snikuz12/highform.git)                     |
 | LUMO       | 일기 서비스의 Server (진행 중단)           | 2025.02 (중단)       | [LUMO Server](https://github.com/snikuz12/LUMO_BE.git)                  |
 | POT        | 회사 내 자체 웹 기반 그룹웨어의 Client        | 2024.09 - 2024.11     | [POT Client](https://github.com/snikuz12/POT_fe.git)                  |
 | POT        | 회사 내 자체 웹 기반 그룹웨어의 Server        | 2024.09 - 2024.11     | [POT Server](https://github.com/snikuz12/POT_be.git)                   |
