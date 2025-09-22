@@ -4,7 +4,7 @@
 ## Project
 | 프로젝트명| 설명 | 기간 | Repository |
 |------------------------|-------------------------------------------------------|----------------------|--------------------------------------------------------------------------------------|
-| LUMO       | 일기 서비스의 Server                      | 2025.02 -             | [LUMO Server](https://github.com/snikuz12/LUMO_BE.git)                  |
+| LUMO       | 일기 서비스의 Server (진행 중단)           | 2025.02 (중단)       | [LUMO Server](https://github.com/snikuz12/LUMO_BE.git)                  |
 | POT        | 회사 내 자체 웹 기반 그룹웨어의 Client        | 2024.09 - 2024.11     | [POT Client](https://github.com/snikuz12/POT_fe.git)                  |
 | POT        | 회사 내 자체 웹 기반 그룹웨어의 Server        | 2024.09 - 2024.11     | [POT Server](https://github.com/snikuz12/POT_be.git)                   |
 | TEENKIRI   | 초등학생을 위한 온라인 교육 서비스의 Client     | 2024.07 - 2024.08     | [TEENKIRI Client](https://github.com/snikuz12/TEENKIRI_FRONT.git)                 | 
