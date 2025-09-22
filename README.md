@@ -1,14 +1,18 @@
 ## HWANG YO HAN | 끈기있게 도전하는 개발자
 
 
+
 ## Project
 | 프로젝트명| 설명 | 기간 | Repository |
 |------------------------|-------------------------------------------------------|----------------------|--------------------------------------------------------------------------------------|
+| 빌려가유 (billyeogayu) | 농기계 대여 플랫폼 서비스                    | 2024.09.03 - 2024.09.16 | [빌려가유 Server](https://github.com/snikuz12/billyeogayu.git)                  |
+| 하이뽀 (haippo-web)      | 웹 서비스 플랫폼                           | 2024.07.14 - 2024.07.25 | [해뽀 Server](https://github.com/snikuz12/haippo-web.git)                       |
 | LUMO       | 일기 서비스의 Server (진행 중단)           | 2025.02 (중단)       | [LUMO Server](https://github.com/snikuz12/LUMO_BE.git)                  |
 | POT        | 회사 내 자체 웹 기반 그룹웨어의 Client        | 2024.09 - 2024.11     | [POT Client](https://github.com/snikuz12/POT_fe.git)                  |
 | POT        | 회사 내 자체 웹 기반 그룹웨어의 Server        | 2024.09 - 2024.11     | [POT Server](https://github.com/snikuz12/POT_be.git)                   |
 | TEENKIRI   | 초등학생을 위한 온라인 교육 서비스의 Client     | 2024.07 - 2024.08     | [TEENKIRI Client](https://github.com/snikuz12/TEENKIRI_FRONT.git)                 | 
 | TEENKIRI   | 초등학생을 위한 온라인 교육 서비스의 Server     | 2024.07 - 2024.08     | [TEENKIRI Server](https://github.com/snikuz12/TEENKIRI_BACKEND.git)                  |
+
 
 ## Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yohanhwang10@gmail.com)](mailto:yohanhwang10@gmail.com)
