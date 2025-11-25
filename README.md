@@ -76,4 +76,3 @@
   />
 </a>
   
-[![snikuz12's GitHub stats](https://github-readme-stats.vercel.app/api?username=snikuz12&theme=radical)](https://github.com/snikuz12/github-readme-stats)
